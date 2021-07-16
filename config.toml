@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "SimpleIntro"
+publishDir = "public"
+
+[params]
+    mainbg = "images/screenshot.png"
+    mainTitle = "ISTC 2023"
+    mainText = "International Symposium on Topics in Coding in Brest"
+
