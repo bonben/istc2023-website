@@ -5,6 +5,7 @@ publishDir = "public"
 
 [params]
     mainbg = "images/screenshot.png"
-    mainTitle = "ISTC 2023"
-    mainText = "International Symposium on Topics in Coding in Brest"
-
+    # mainTitle = "ISTC 2023"
+    # mainText = "International Symposium on Topics in Coding"
+    # secondText = "September  4-8, 2023"
+    # thirdText = "Brest, France"
